@@ -11,23 +11,23 @@ class Decimal_To_Octal {
         
 	    int oct_num[] = new int[100];
         
-	    Scanner scan = new Scanner(System.in);	
+	    Scanner sc = new Scanner(System.in);	
        
-	    System.out.print("Input a Decimal Number: ");
+	    System.out.print("Decimal Number: ");
         
-	    int dec_num = scan.nextInt();
+	    int dec_num = sc.nextInt();
 		
 
-    	    int quot = dec_num;
+    	    int temp = dec_num;
 	    int i =1;
-	    while(quot != 0)
+	    while(temp != 0)
 	    {
-		    oct_num[i++] = quot%8;
-		    quot = quot/8;
+		    oct_num[i++] = temp%8;
+		    temp = temp/8;
         
 	    }
 		
-	    System.out.print("Octal number is: ");
+	    System.out.print("Octal number: ");
        
 	    for(int j=i-1; j>0; j--)
 	    {

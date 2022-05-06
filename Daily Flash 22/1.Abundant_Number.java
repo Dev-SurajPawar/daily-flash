@@ -1,6 +1,5 @@
 /*
- * Program 1: Write a Program to check whether the entered number is an
-Abundant number or not.
+ * Program 1: Write a Program to check whether the entered number is an Abundant number or not.
 {Note: a number can be termed as abundant if the sum of all of its perfect
 divisors is greater than that number itself, e.g. 12: 1+2+3+4+6 = 16 > 12 so 12
 is an abundant number.}
