@@ -1,6 +1,6 @@
 /*
  * Program 3: Write a Program that accepts an integer value from the user and
-prints all even numbers from that number to 0 using a while loop. */
+prints all odd numbers from that number to 1 using a while loop. */
 
 import java.util.Scanner;
 
