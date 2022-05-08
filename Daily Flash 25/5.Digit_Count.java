@@ -1,5 +1,5 @@
 /*Program 5: Write a Program that takes a number as input from user and prints
-the counts the occurrence of even digits from it */
+the counts the occurrence of odd digits from it */
 
 import java.util.Scanner;
 
