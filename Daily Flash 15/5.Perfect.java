@@ -34,7 +34,5 @@ class Perfect_Number{
 
 /*
 Input: 100
-Output: The Series of all perfect number from 1 to 10 is
-:wq
-6, 28
+Output: The Series of all perfect number from 1 to 10 is 6, 28
 */

@@ -1,4 +1,10 @@
-
+/*
+Write a Program to Print following Pattern.
+         9
+      9 16
+   9 16 25
+9 16 25 36
+*/
 
 import java.util.Scanner;
 
